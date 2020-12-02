@@ -1,0 +1,6 @@
+com\baidu\dao\UserDao.class
+com\baidu\service\imp\UserServiceImpl.class
+com\baidu\bean\User.class
+com\baidu\controller\UserTest.class
+com\baidu\service\UserService.class
+com\baidu\test\Test.class
